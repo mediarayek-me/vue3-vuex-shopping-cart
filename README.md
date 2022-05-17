@@ -1,4 +1,8 @@
-# shopping-cart
+ # Screenshot
+  
+![This is an image](https://mediarayek.com/github/shopping-cart/images/shopping-cart.gif)
+
+# How To Install
 
 ## Project setup
 ```
